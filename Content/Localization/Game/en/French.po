@@ -1,0 +1,862 @@
+﻿# French English translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: French\n"
+"POT-Creation-Date: 2019-01-18 12:25\n"
+"PO-Revision-Date: 2019-01-18 12:25\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	017D72284763ECA25E7E9796C86CF8FC
+#. SourceLocation:	/Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",017D72284763ECA25E7E9796C86CF8FC"
+msgid "Stove"
+msgstr "Stove"
+
+#. Key:	0199568643AB2B13D689A2B701BE0167
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea9.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea9.NewTextRenderComponent.Text
+msgctxt ",0199568643AB2B13D689A2B701BE0167"
+msgid "USING THE OBJECTIVE BOOK"
+msgstr "USING THE OBJECTIVE BOOK"
+
+#. Key:	03EBB76C4BB884C506500882B4E125C9
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",03EBB76C4BB884C506500882B4E125C9"
+msgid "YOU SLICED YOUR WRISTS OPEN"
+msgstr "YOU SLICED YOUR WRISTS OPEN"
+
+#. Key:	052AAEA1444D6D22E483049A2CF3BDA8
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",052AAEA1444D6D22E483049A2CF3BDA8"
+msgid "YOU BURNT YOUR EYES OUT"
+msgstr "YOU BURNT YOUR EYES OUT"
+
+#. Key:	0695307E4A3E2A66D84AA2A69E419018
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor6.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor6.NewTextRenderComponent.Text
+msgctxt ",0695307E4A3E2A66D84AA2A69E419018"
+msgid "Keep in mind that most assets are vertex painted, and this does not translate to this scene"
+msgstr "Keep in mind that most assets are vertex painted, and this does not translate to this scene"
+
+#. Key:	0A62D2D348DA7281E0C573BAE8D88E96
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor8.NewTextRenderComponent.Text
+msgctxt ",0A62D2D348DA7281E0C573BAE8D88E96"
+msgid "Other Stuff"
+msgstr "Other Stuff"
+
+#. Key:	0B9174F54F8160FFB798ADAE31464E77
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor20_2.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor20_2.NewTextRenderComponent.Text
+msgctxt ",0B9174F54F8160FFB798ADAE31464E77"
+msgid "Assets modelled, unwrapped"
+msgstr "Assets modelled, unwrapped"
+
+#. Key:	0D626BFB4AA9C11ECCA4A59E565EF4CE
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor13.NewTextRenderComponent.Text
+msgctxt ",0D626BFB4AA9C11ECCA4A59E565EF4CE"
+msgid "Shader tests on baby vision"
+msgstr "Shader tests on baby vision"
+
+#. Key:	11F5B3054C0F0A0168E0D4B08FCDB600
+#. SourceLocation:	/Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",11F5B3054C0F0A0168E0D4B08FCDB600"
+msgid "TableCloth"
+msgstr "TableCloth"
+
+#. Key:	171DCF094DEA8FDA0BEE4A94024D75B6
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_PerfectsStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_PerfectsStatic_GEN_VARIABLE.Text
+msgctxt ",171DCF094DEA8FDA0BEE4A94024D75B6"
+msgid "PREFECTS:"
+msgstr "PREFECTS:"
+
+#. Key:	17CCAD474580BCEB92583295AD848910
+#. SourceLocation:	/Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",17CCAD474580BCEB92583295AD848910"
+msgid "Pill"
+msgstr "Pill"
+
+#. Key:	1B1646524AC3B872E0C9E5819F902BD6
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.Default__BP_FloatingTextRenderer_Ryhtm_C.HitQualityText
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.Default__BP_FloatingTextRenderer_Ryhtm_C.HitQualityText
+msgctxt ",1B1646524AC3B872E0C9E5819F902BD6"
+msgid "NONE"
+msgstr "NONE"
+
+#. Key:	1F809CE8495778B05C16A08655591979
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",1F809CE8495778B05C16A08655591979"
+msgid "Red"
+msgstr "Red"
+
+#. Key:	26303D5048A6E8EE6DB8E68861B7BC97
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",26303D5048A6E8EE6DB8E68861B7BC97"
+msgid "YOU BURNT YOUR FACE OFF WITH CARROT SOUP"
+msgstr "YOU BURNT YOUR FACE OFF WITH CARROT SOUP"
+
+#. Key:	27E8E92D4A4AFA710A8A53A39704966A
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",27E8E92D4A4AFA710A8A53A39704966A"
+msgid "YOU BURNED YOUR HANDS OFF"
+msgstr "YOU BURNED YOUR HANDS OFF"
+
+#. Key:	2914697B40578E86C552F8B32EEBC15B
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_ClosetSlam.BP_ClosetSlam_C:TR_Tip_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_ClosetSlam.BP_ClosetSlam_C:TR_Tip_GEN_VARIABLE.Text
+msgctxt ",2914697B40578E86C552F8B32EEBC15B"
+msgid "CLOSET\r\nSLAM"
+msgstr "CLOSET\r\nSLAM"
+
+#. Key:	29772B7D4556B9D5746EB8837184E40B
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor25.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor25.NewTextRenderComponent.Text
+msgctxt ",29772B7D4556B9D5746EB8837184E40B"
+msgid "Textures by Robbe"
+msgstr "Textures by Robbe"
+
+#. Key:	2B7A53A240BCBF381A032EAA44B6E827
+#. SourceLocation:	/Game/Blueprints/Gameplay/BP_BasePawn.BP_BasePawn_C:ExecuteUbergraph_BP_BasePawn [Script Bytecode]
+#: /Game/Blueprints/Gameplay/BP_BasePawn.BP_BasePawn_C:ExecuteUbergraph_BP_BasePawn [Script Bytecode]
+msgctxt ",2B7A53A240BCBF381A032EAA44B6E827"
+msgid "YOU CUT YOUR HAND\r\nYOU ARE BLEEDING OUT"
+msgstr "YOU CUT YOUR HAND\r\nYOU ARE BLEEDING OUT"
+
+#. Key:	2BC19A2447125DBECF48528EB9F6E3A9
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",2BC19A2447125DBECF48528EB9F6E3A9"
+msgid "YOU DIED "
+msgstr "YOU DIED "
+
+#. Key:	2C78D8184B228439891F4786446FDDE0
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor27.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor27.NewTextRenderComponent.Text
+msgctxt ",2C78D8184B228439891F4786446FDDE0"
+msgid "Animated drawings"
+msgstr "Animated drawings"
+
+#. Key:	2D81F3DB42609413BF1EDBBF22DF9257
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:TextRender_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",2D81F3DB42609413BF1EDBBF22DF9257"
+msgid "GOOD"
+msgstr "GOOD"
+
+#. Key:	2E4F8ECE46F6E086A8A887AE115F97A5
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor11.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor11.NewTextRenderComponent.Text
+msgctxt ",2E4F8ECE46F6E086A8A887AE115F97A5"
+msgid "Particle effect (burst only once, sorry!)"
+msgstr "Particle effect (burst only once, sorry!)"
+
+#. Key:	30F32E94419C78FBE045CCA02057F714
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",30F32E94419C78FBE045CCA02057F714"
+msgid "YOU OVERDOSED ON PILLS"
+msgstr "YOU OVERDOSED ON PILLS"
+
+#. Key:	37E4519B43A11496BA104F8A57A73C08
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea.NewTextRenderComponent.Text
+msgctxt ",37E4519B43A11496BA104F8A57A73C08"
+msgid "USE JOYSTICK TO SEE HIGHLIGHTED AREA\r\nTELEPORT TO HIGHLIGHTED AREA"
+msgstr "USE JOYSTICK TO SEE HIGHLIGHTED AREA\r\nTELEPORT TO HIGHLIGHTED AREA"
+
+#. Key:	39EA2673493A63F4B163108D3F50FF42
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor26.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor26.NewTextRenderComponent.Text
+msgctxt ",39EA2673493A63F4B163108D3F50FF42"
+msgid "Grid Material"
+msgstr "Grid Material"
+
+#. Key:	3A03E76047CA63041C61BABB6E744702
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",3A03E76047CA63041C61BABB6E744702"
+msgid "Miss"
+msgstr "Miss"
+
+#. Key:	3B3308ED4C01884E6D91B98D0FB311B0
+#. SourceLocation:	/Game/Maps/Bathroom/MAP_Bathroom.MAP_Bathroom:PersistentLevel.BP_ShowInteractionTip2.InteractionTip
+#: /Game/Maps/Bathroom/MAP_Bathroom.MAP_Bathroom:PersistentLevel.BP_ShowInteractionTip2.InteractionTip
+msgctxt ",3B3308ED4C01884E6D91B98D0FB311B0"
+msgid "GRAB THE PILLBOX"
+msgstr "GRAB THE PILLBOX"
+
+#. Key:	3E27719840FAA589985B638443EA926D
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_BadsStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_BadsStatic_GEN_VARIABLE.Text
+msgctxt ",3E27719840FAA589985B638443EA926D"
+msgid "BADS:"
+msgstr "BADS:"
+
+#. Key:	40D6A0C741FA7461E7EB6398F63F7305
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor3.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor3.NewTextRenderComponent.Text
+msgctxt ",40D6A0C741FA7461E7EB6398F63F7305"
+msgid "Rocio"
+msgstr "Rocio"
+
+#. Key:	42BAE7A64DF838617986C3955734225C
+#. SourceLocation:	/Game/Blueprints/Gameplay/ENUM_Hands.ENUM_Hands.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Gameplay/ENUM_Hands.ENUM_Hands.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",42BAE7A64DF838617986C3955734225C"
+msgid "Right"
+msgstr "Right"
+
+#. Key:	44A125B7424AD37523CA2EA98FF1CAA2
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor5.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor5.NewTextRenderComponent.Text
+msgctxt ",44A125B7424AD37523CA2EA98FF1CAA2"
+msgid "Assets only textured"
+msgstr "Assets only textured"
+
+#. Key:	44A492A648E7C8C54B389EBE7F8940FF
+#. SourceLocation:	/Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/eOBJECTIVEBOOKINFO.eOBJECTIVEBOOKINFO.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",44A492A648E7C8C54B389EBE7F8940FF"
+msgid "Closet"
+msgstr "Closet"
+
+#. Key:	4BCFCB74466844E81D051DB9201403E9
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:ExecuteUbergraph_BP_MoleManager [Script Bytecode]
+#: /Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:ExecuteUbergraph_BP_MoleManager [Script Bytecode]
+msgctxt ",4BCFCB74466844E81D051DB9201403E9"
+msgid "YOU BURNED YOUR HANDS\r\nYOU WILL BE TELEPORTED"
+msgstr "YOU BURNED YOUR HANDS\r\nYOU WILL BE TELEPORTED"
+
+#. Key:	50771D4245E4C4CDB28954A810A64564
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor7.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor7.NewTextRenderComponent.Text
+msgctxt ",50771D4245E4C4CDB28954A810A64564"
+msgid "The Mastermaterial is made by Rafael"
+msgstr "The Mastermaterial is made by Rafael"
+
+#. Key:	51A32D9C4EA18C81BC4058884537025F
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillEntryPoint.BP_PillEntryPoint_C:ExecuteUbergraph_BP_PillEntryPoint [Script Bytecode]
+#: /Game/Blueprints/Minigames/Pill/BP_PillEntryPoint.BP_PillEntryPoint_C:ExecuteUbergraph_BP_PillEntryPoint [Script Bytecode]
+msgctxt ",51A32D9C4EA18C81BC4058884537025F"
+msgid "YOU TOUCHED THE PILL BOX\r\nYOU ARE BEING WARPED TO A MINIGAME"
+msgstr "YOU TOUCHED THE PILL BOX\r\nYOU ARE BEING WARPED TO A MINIGAME"
+
+#. Key:	58F700DE423FA0CFF713D4B4569C9EBC
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor10.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor10.NewTextRenderComponent.Text
+msgctxt ",58F700DE423FA0CFF713D4B4569C9EBC"
+msgid "Altered fog material from unreal"
+msgstr "Altered fog material from unreal"
+
+#. Key:	592376AC4ED2777C10340FA89FBD255B
+#. SourceLocation:	/Game/Maps/Climbing/MAP_Climbing.MAP_Climbing:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/Maps/Climbing/MAP_Climbing.MAP_Climbing:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",592376AC4ED2777C10340FA89FBD255B"
+msgid "TURN AROUND"
+msgstr "TURN AROUND"
+
+#. Key:	5B03E5604F169CC585A29381207C9B4F
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",5B03E5604F169CC585A29381207C9B4F"
+msgid "YOU DROWNED IN THE WASHING MACHINE"
+msgstr "YOU DROWNED IN THE WASHING MACHINE"
+
+#. Key:	5CF83F754B8BCC0DB27805B374BB1609
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",5CF83F754B8BCC0DB27805B374BB1609"
+msgid "Hit"
+msgstr "Hit"
+
+#. Key:	62079FDD4D1DB0D204111CB0C64CE8C6
+#. SourceLocation:	/Game/Blueprints/InteractiveElements/BP_DoorLevelLoad.BP_DoorLevelLoad_C:TextRender_GEN_VARIABLE.Text
+#: /Game/Blueprints/InteractiveElements/BP_DoorLevelLoad.BP_DoorLevelLoad_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",62079FDD4D1DB0D204111CB0C64CE8C6"
+msgid "TO LEVEL"
+msgstr "TO LEVEL"
+
+#. Key:	64D7266D481804A5A2D486BB449DFD94
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea6.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea6.NewTextRenderComponent.Text
+msgctxt ",64D7266D481804A5A2D486BB449DFD94"
+msgid "TELEPORT HERE"
+msgstr "TELEPORT HERE"
+
+#. Key:	66EE3BFF4002838790825695DAED8D14
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor12.NewTextRenderComponent.Text
+msgctxt ",66EE3BFF4002838790825695DAED8D14"
+msgid "Also made the floor material"
+msgstr "Also made the floor material"
+
+#. Key:	6A610E1E4A10A40AA1C43F8B2EA6D3E0
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_GoodsStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_GoodsStatic_GEN_VARIABLE.Text
+msgctxt ",6A610E1E4A10A40AA1C43F8B2EA6D3E0"
+msgid "GOODS:"
+msgstr "GOODS:"
+
+#. Key:	6E46043A42D253B0CECCF9A7D794EF06
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_StareAtRightSphere.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_StareAtRightSphere.NewTextRenderComponent.Text
+msgctxt ",6E46043A42D253B0CECCF9A7D794EF06"
+msgid "STARE AT RIGHT SPHERE"
+msgstr "STARE AT RIGHT SPHERE"
+
+#. Key:	6E4AA78C4292131602552BB40B638357
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor16.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor16.NewTextRenderComponent.Text
+msgctxt ",6E4AA78C4292131602552BB40B638357"
+msgid "Assets modelled, unwrapped and textured"
+msgstr "Assets modelled, unwrapped and textured"
+
+#. Key:	6F18D56D44019973786BF192CB0C2A68
+#. SourceLocation:	/Game/Maps/RythmGame/MAP_RythmCloset.MAP_RythmCloset:PersistentLevel.TRA_TurnAround.NewTextRenderComponent.Text
+#: /Game/Maps/RythmGame/MAP_RythmCloset.MAP_RythmCloset:PersistentLevel.TRA_TurnAround.NewTextRenderComponent.Text
+msgctxt ",6F18D56D44019973786BF192CB0C2A68"
+msgid "TURN AROUND"
+msgstr "TURN AROUND"
+
+#. Key:	6F6967A34F6A3475123524866EDF4CD9
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea2.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea2.NewTextRenderComponent.Text
+msgctxt ",6F6967A34F6A3475123524866EDF4CD9"
+msgid "ROTATE JOYSTICK TO\r\nCHANGE TELEPORT DIRECTION"
+msgstr "ROTATE JOYSTICK TO\r\nCHANGE TELEPORT DIRECTION"
+
+#. Key:	725FCBCF49E244AE22F4C0861DCBE711
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_COMPLETED_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_COMPLETED_GEN_VARIABLE.Text
+msgctxt ",725FCBCF49E244AE22F4C0861DCBE711"
+msgid "YOU BURNED YOUR HANDS"
+msgstr "YOU BURNED YOUR HANDS"
+
+#. Key:	728CC1464BF851C3C3DFE0B88592D90C
+#. SourceLocation:	/Game/Maps/Bathroom/MAP_Bathroom.MAP_Bathroom:PersistentLevel.BP_ShowInteractionTip_2.InteractionTip
+#: /Game/Maps/Bathroom/MAP_Bathroom.MAP_Bathroom:PersistentLevel.BP_ShowInteractionTip_2.InteractionTip
+msgctxt ",728CC1464BF851C3C3DFE0B88592D90C"
+msgid "INTERACT WITH THE CLOSET"
+msgstr "INTERACT WITH THE CLOSET"
+
+#. Key:	7359B0994EFBE787DCE2E991795482CC
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",7359B0994EFBE787DCE2E991795482CC"
+msgid "YOU ELECTROCUTED YOURSELF"
+msgstr "YOU ELECTROCUTED YOURSELF"
+
+#. Key:	73E4E7D0484FAC3F54134A88F98B3C98
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",73E4E7D0484FAC3F54134A88F98B3C98"
+msgid "Robbe"
+msgstr "Robbe"
+
+#. Key:	7AC3447C4207828F83C87DB28F2CDA23
+#. SourceLocation:	/Game/Maps/Kitchen/MAP_Kitchen.MAP_Kitchen:PersistentLevel.BP_ShowInteractionTip_2.InteractionTip
+#: /Game/Maps/Kitchen/MAP_Kitchen.MAP_Kitchen:PersistentLevel.BP_ShowInteractionTip_2.InteractionTip
+msgctxt ",7AC3447C4207828F83C87DB28F2CDA23"
+msgid "TOUCH THE HOT PLATE"
+msgstr "TOUCH THE HOT PLATE"
+
+#. Key:	7C5270B741D63AFD7598C5B9EB1B79A0
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer.BP_FloatingTextRenderer_C:TextRender_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer.BP_FloatingTextRenderer_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",7C5270B741D63AFD7598C5B9EB1B79A0"
+msgid "100"
+msgstr "100"
+
+#. Key:	7C97071849812073324A80AE2CB314E0
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial.MAP_Tutorial:PersistentLevel.BP_QuitDoor.TextRender.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial.MAP_Tutorial:PersistentLevel.BP_QuitDoor.TextRender.Text
+msgctxt ",7C97071849812073324A80AE2CB314E0"
+msgid "QUIT"
+msgstr "QUIT"
+
+#. Key:	7D1E0C4C4A1C2C398CB25CB3995B172D
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_Score_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_Score_GEN_VARIABLE.Text
+msgctxt ",7D1E0C4C4A1C2C398CB25CB3995B172D"
+msgid "255000"
+msgstr "255000"
+
+#. Key:	7DD0FE154EF356B573895D973367711A
+#. SourceLocation:	/Game/Blueprints/Minigames/Climbing/BP_CIimbingEntryPoint.BP_CIimbingEntryPoint_C:ExecuteUbergraph_BP_CIimbingEntryPoint [Script Bytecode]
+#: /Game/Blueprints/Minigames/Climbing/BP_CIimbingEntryPoint.BP_CIimbingEntryPoint_C:ExecuteUbergraph_BP_CIimbingEntryPoint [Script Bytecode]
+msgctxt ",7DD0FE154EF356B573895D973367711A"
+msgid "YOU STARTED CLIMBING THE TABLE CLOTH\r\nYOU ARE BEING WARPED TO A MINIGAME"
+msgstr "YOU STARTED CLIMBING THE TABLE CLOTH\r\nYOU ARE BEING WARPED TO A MINIGAME"
+
+#. Key:	7E8522E9408D1DD4E009CEAFDAC9859E
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillBox.BP_PillBox_C:TR_PillsCaught_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillBox.BP_PillBox_C:TR_PillsCaught_GEN_VARIABLE.Text
+msgctxt ",7E8522E9408D1DD4E009CEAFDAC9859E"
+msgid "0"
+msgstr "0"
+
+#. Key:	7E9E91504234B37831AF11AAC9D49A14
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",7E9E91504234B37831AF11AAC9D49A14"
+msgid "YOU SMASHED YOUR FINGERS"
+msgstr "YOU SMASHED YOUR FINGERS"
+
+#. Key:	7FABBB2140EFA8C77941A3825B66542E
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7FABBB2140EFA8C77941A3825B66542E"
+msgid "Blue"
+msgstr "Blue"
+
+#. Key:	834BBD2E419F4CECB6FA5C8653B0429D
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene:PersistentLevel.BP_DoorLevelLoad_2.TextRender.Text
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene:PersistentLevel.BP_DoorLevelLoad_2.TextRender.Text
+msgctxt ",834BBD2E419F4CECB6FA5C8653B0429D"
+msgid "OPEN TO \r\nCONTINUE"
+msgstr "OPEN TO \r\nCONTINUE"
+
+#. Key:	842B958D421FD4B04A047697E5696619
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",842B958D421FD4B04A047697E5696619"
+msgid "Perfect"
+msgstr "Perfect"
+
+#. Key:	842FEEBC41137FF2322E97BDF63BF429
+#. SourceLocation:	/Game/Blueprints/InteractiveElements/3DUI/BP_Slider.BP_Slider_C:TextRender_GEN_VARIABLE.Text
+#: /Game/Blueprints/InteractiveElements/3DUI/BP_Slider.BP_Slider_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",842FEEBC41137FF2322E97BDF63BF429"
+msgid "1.0"
+msgstr "1.0"
+
+#. Key:	897E455F4BC31DD11D5447A7F83CDFF6
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea4.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea4.NewTextRenderComponent.Text
+msgctxt ",897E455F4BC31DD11D5447A7F83CDFF6"
+msgid "TUTORIAL OVER\r\nEXPLORE THE ROOMS\r\nFIND THE HAZARDS"
+msgstr "TUTORIAL OVER\r\nEXPLORE THE ROOMS\r\nFIND THE HAZARDS"
+
+#. Key:	8B7853C74B661C589CC7C9991FEFA18B
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor15.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor15.NewTextRenderComponent.Text
+msgctxt ",8B7853C74B661C589CC7C9991FEFA18B"
+msgid "Assets modelled and unwrapped"
+msgstr "Assets modelled and unwrapped"
+
+#. Key:	8EF28D72450F4AFED11C438FA32C7854
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_GameInfo_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_GameInfo_GEN_VARIABLE.Text
+msgctxt ",8EF28D72450F4AFED11C438FA32C7854"
+msgid "CATCH THE PILLS\r\nSORT THEM BY COLOR\r\nGRAB BOX TOO START"
+msgstr "CATCH THE PILLS\r\nSORT THEM BY COLOR\r\nGRAB BOX TOO START"
+
+#. Key:	90109C5C42C7431925A52EBD3E5FD28E
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor18.NewTextRenderComponent.Text
+msgctxt ",90109C5C42C7431925A52EBD3E5FD28E"
+msgid "Particle systems"
+msgstr "Particle systems"
+
+#. Key:	927D1BFE40BD7733670C09B7FCD5C98C
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",927D1BFE40BD7733670C09B7FCD5C98C"
+msgid "YOU GOT HIT BY MANY OBJECTS"
+msgstr "YOU GOT HIT BY MANY OBJECTS"
+
+#. Key:	935F7E9E40B136381CAD429F04D1C116
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_StareAtLeftSphere.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_StareAtLeftSphere.NewTextRenderComponent.Text
+msgctxt ",935F7E9E40B136381CAD429F04D1C116"
+msgid "STARE AT LEFT SPHERE"
+msgstr "STARE AT LEFT SPHERE"
+
+#. Key:	93E6158C43B73313FF41589C44B368E5
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_Thanks_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_Thanks_GEN_VARIABLE.Text
+msgctxt ",93E6158C43B73313FF41589C44B368E5"
+msgid "PlAYING WITH PILLS IS DANGEROUS\r\nSLEEP TIGHT"
+msgstr "PlAYING WITH PILLS IS DANGEROUS\r\nSLEEP TIGHT"
+
+#. Key:	95ED6AFC49DE3265AA00A4A986A11967
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_Info_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_Info_GEN_VARIABLE.Text
+msgctxt ",95ED6AFC49DE3265AA00A4A986A11967"
+msgid "SLAP/SLAM THE PADS\r\nMATCH THE BEAT"
+msgstr "SLAP/SLAM THE PADS\r\nMATCH THE BEAT"
+
+#. Key:	9727B78A494B1BF8C2D08B8051FBD9B1
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",9727B78A494B1BF8C2D08B8051FBD9B1"
+msgid "Jumping"
+msgstr "Jumping"
+
+#. Key:	9AEAA198428B840A513B00B854C01CE0
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",9AEAA198428B840A513B00B854C01CE0"
+msgid "Bad"
+msgstr "Bad"
+
+#. Key:	A5032D1241FDE2AC6B22ACAC3AC74CB2
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/ClosetRythm/eHITQUALITY.eHITQUALITY.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",A5032D1241FDE2AC6B22ACAC3AC74CB2"
+msgid "Good"
+msgstr "Good"
+
+#. Key:	A7FE241648557F92E3B3848BE2C9401D
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_PillCount_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_PillCount_GEN_VARIABLE.Text
+msgctxt ",A7FE241648557F92E3B3848BE2C9401D"
+msgid "0"
+msgstr "0"
+
+#. Key:	B12249BA4F96222A670A7C8F785CAAD3
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:ExecuteUbergraph_BP_Notemanager [Script Bytecode]
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:ExecuteUbergraph_BP_Notemanager [Script Bytecode]
+msgctxt ",B12249BA4F96222A670A7C8F785CAAD3"
+msgid "YOUR HAND GOT\r\nHIT BY THE CLOSET"
+msgstr "YOUR HAND GOT\r\nHIT BY THE CLOSET"
+
+#. Key:	B4C9A8844562468E9A9179861D3D9175
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillBox.BP_PillBox_C:TR_GrabMe_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillBox.BP_PillBox_C:TR_GrabMe_GEN_VARIABLE.Text
+msgctxt ",B4C9A8844562468E9A9179861D3D9175"
+msgid "GRAB ME"
+msgstr "GRAB ME"
+
+#. Key:	B4E6BE12475523EB692B6290E0F9F449
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_ClosetSlap.BP_ClosetSlap_C:TR_Tip_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_ClosetSlap.BP_ClosetSlap_C:TR_Tip_GEN_VARIABLE.Text
+msgctxt ",B4E6BE12475523EB692B6290E0F9F449"
+msgid "CLOSET\r\nSLAP"
+msgstr "CLOSET\r\nSLAP"
+
+#. Key:	B88EF8644590A9706529DD802528C7DD
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea5.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea5.NewTextRenderComponent.Text
+msgctxt ",B88EF8644590A9706529DD802528C7DD"
+msgid "USING THE OBJECTIVE BOOK"
+msgstr "USING THE OBJECTIVE BOOK"
+
+#. Key:	BD24AB954573231864CA1EB6F20EBF57
+#. SourceLocation:	/Game/Blueprints/Gameplay/BP_BasePawn.BP_BasePawn_C:TR_SpringText_GEN_VARIABLE.Text
+#: /Game/Blueprints/Gameplay/BP_BasePawn.BP_BasePawn_C:TR_SpringText_GEN_VARIABLE.Text
+msgctxt ",BD24AB954573231864CA1EB6F20EBF57"
+msgid "JIHAD PLS"
+msgstr "JIHAD PLS"
+
+#. Key:	BE373F2A4E3E6EE9CFA2D3A34FEF8F2F
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor17.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor17.NewTextRenderComponent.Text
+msgctxt ",BE373F2A4E3E6EE9CFA2D3A34FEF8F2F"
+msgid "TILEABLE"
+msgstr "TILEABLE"
+
+#. Key:	C0EE637044B9483B3E5B4DB5F3027F7E
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_BestStreakStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_BestStreakStatic_GEN_VARIABLE.Text
+msgctxt ",C0EE637044B9483B3E5B4DB5F3027F7E"
+msgid "BEST:"
+msgstr "BEST:"
+
+#. Key:	C14C9D0744BD8C05EF38A3A8F247EB8D
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",C14C9D0744BD8C05EF38A3A8F247EB8D"
+msgid "Yellow"
+msgstr "Yellow"
+
+#. Key:	C4F6D8A44DAD7005DA8DC18FE4E6CAAA
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.BP_DoorToBathroom.TextRender.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.BP_DoorToBathroom.TextRender.Text
+msgctxt ",C4F6D8A44DAD7005DA8DC18FE4E6CAAA"
+msgid "TO BATHROOM"
+msgstr "TO BATHROOM"
+
+#. Key:	C7EC07FD43AFE7F2BDD6679ECDAFB1AB
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",C7EC07FD43AFE7F2BDD6679ECDAFB1AB"
+msgid "Hidden"
+msgstr "Hidden"
+
+#. Key:	C922F62C4C4ED10BCE3E928AC3BF8FAD
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_StreakCount_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_StreakCount_GEN_VARIABLE.Text
+msgctxt ",C922F62C4C4ED10BCE3E928AC3BF8FAD"
+msgid "0"
+msgstr "0"
+
+#. Key:	C95C735D4EAFB50CD9A274A487AD9D37
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor22.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor22.NewTextRenderComponent.Text
+msgctxt ",C95C735D4EAFB50CD9A274A487AD9D37"
+msgid "Master Material"
+msgstr "Master Material"
+
+#. Key:	C9F037CB4459728E8DD92A96A2FAE976
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor29.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor29.NewTextRenderComponent.Text
+msgctxt ",C9F037CB4459728E8DD92A96A2FAE976"
+msgid "Materials"
+msgstr "Materials"
+
+#. Key:	CC74F3734DC3335F3B7743979315FF3F
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_StreakStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_StreakStatic_GEN_VARIABLE.Text
+msgctxt ",CC74F3734DC3335F3B7743979315FF3F"
+msgid "STREAK:"
+msgstr "STREAK:"
+
+#. Key:	CD7865BF490C9A4323963385E6A17C48
+#. SourceLocation:	/Game/Maps/Bathroom/MAP_Bathroom.MAP_Bathroom:PersistentLevel.BP_DoorLevelLoad_2.TextRender.Text
+#: /Game/Maps/Bathroom/MAP_Bathroom.MAP_Bathroom:PersistentLevel.BP_DoorLevelLoad_2.TextRender.Text
+msgctxt ",CD7865BF490C9A4323963385E6A17C48"
+msgid "TO HALLWAY"
+msgstr "TO HALLWAY"
+
+#. Key:	CE2CF37E428D9F6F5B285BA555C12C1A
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_Timer_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_Timer_GEN_VARIABLE.Text
+msgctxt ",CE2CF37E428D9F6F5B285BA555C12C1A"
+msgid "45"
+msgstr "45"
+
+#. Key:	D1E2087A4A55219AE97DE5B45065E919
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Pill/ePILLTYPE.ePILLTYPE.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",D1E2087A4A55219AE97DE5B45065E919"
+msgid "Green"
+msgstr "Green"
+
+#. Key:	D3D3A8C4458AB60BF1DE558AB8A8FC6E
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+msgctxt ",D3D3A8C4458AB60BF1DE558AB8A8FC6E"
+msgid "MISS"
+msgstr "MISS"
+
+#. Key:	D9EDC9F44C5D72BF4B5545AF55AACCA0
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_PillCountStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_PillCountStatic_GEN_VARIABLE.Text
+msgctxt ",D9EDC9F44C5D72BF4B5545AF55AACCA0"
+msgid "PILL COUNT:"
+msgstr "PILL COUNT:"
+
+#. Key:	DA73E2474A2CBC15D3E15183D6E56FF5
+#. SourceLocation:	/Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_TimerStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Pill/BP_PillManager.BP_PillManager_C:TR_TimerStatic_GEN_VARIABLE.Text
+msgctxt ",DA73E2474A2CBC15D3E15183D6E56FF5"
+msgid "TIMER:"
+msgstr "TIMER:"
+
+#. Key:	DACADBE646B22567AF796EAFD25BA469
+#. SourceLocation:	/Game/Blueprints/InteractiveElements/3DUI/BP_ToggleBox.BP_ToggleBox_C:ExecuteUbergraph_BP_ToggleBox [Script Bytecode]
+#: /Game/Blueprints/InteractiveElements/3DUI/BP_ToggleBox.BP_ToggleBox_C:ExecuteUbergraph_BP_ToggleBox [Script Bytecode]
+msgctxt ",DACADBE646B22567AF796EAFD25BA469"
+msgid "YOU CHANGED THE LANGUAGE"
+msgstr "YOU CHANGED THE LANGUAGE"
+
+#. Key:	DB27C6B9496B8C627F440EBB4704E64B
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor9.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor9.NewTextRenderComponent.Text
+msgctxt ",DB27C6B9496B8C627F440EBB4704E64B"
+msgid "Animations rigged in mixamo, and reskinned, optimized and animated in maya"
+msgstr "Animations rigged in mixamo, and reskinned, optimized and animated in maya"
+
+#. Key:	DEFDD34E4ED98C94DBE28B945F00D8A1
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+msgctxt ",DEFDD34E4ED98C94DBE28B945F00D8A1"
+msgid "PERFECT"
+msgstr "PERFECT"
+
+#. Key:	E12851584D69EC2F9C163AA8B843631A
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+msgctxt ",E12851584D69EC2F9C163AA8B843631A"
+msgid "BAD"
+msgstr "BAD"
+
+#. Key:	E16404234FE0E467FF377B97AF3DB975
+#. SourceLocation:	/Game/Maps/Kitchen/MAP_Kitchen.MAP_Kitchen:PersistentLevel.BP_ShowInteractionTip2.InteractionTip
+#: /Game/Maps/Kitchen/MAP_Kitchen.MAP_Kitchen:PersistentLevel.BP_ShowInteractionTip2.InteractionTip
+msgctxt ",E16404234FE0E467FF377B97AF3DB975"
+msgid "GRAB THE TABLE CLOTH"
+msgstr "GRAB THE TABLE CLOTH"
+
+#. Key:	E1AC56634B9AE6A04F01AE8CA4D402A4
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor24.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor24.NewTextRenderComponent.Text
+msgctxt ",E1AC56634B9AE6A04F01AE8CA4D402A4"
+msgid "Dissolve Function by Robin"
+msgstr "Dissolve Function by Robin"
+
+#. Key:	E26841CA48366931CA6424B1B39AAF36
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea3.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea3.NewTextRenderComponent.Text
+msgctxt ",E26841CA48366931CA6424B1B39AAF36"
+msgid "GRAB THE CUBE"
+msgstr "GRAB THE CUBE"
+
+#. Key:	E28EB98F4DC7167982EA25B5928156F0
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene_C:ExecuteUbergraph_MAP_PlayerDeadScene [Script Bytecode]
+msgctxt ",E28EB98F4DC7167982EA25B5928156F0"
+msgid "YOU POISONED YOURSELF"
+msgstr "YOU POISONED YOURSELF"
+
+#. Key:	E39353A34749065D662D98A8E4305265
+#. SourceLocation:	/Game/Maps/Mole/MAP_Mole.MAP_Mole:PersistentLevel.TRA_TurnAround.NewTextRenderComponent.Text
+#: /Game/Maps/Mole/MAP_Mole.MAP_Mole:PersistentLevel.TRA_TurnAround.NewTextRenderComponent.Text
+msgctxt ",E39353A34749065D662D98A8E4305265"
+msgid "TURN AROUND"
+msgstr "TURN AROUND"
+
+#. Key:	E3D058504F51DC2871E523BE6A9627D2
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor19.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor19.NewTextRenderComponent.Text
+msgctxt ",E3D058504F51DC2871E523BE6A9627D2"
+msgid "(Play to see)"
+msgstr "(Play to see)"
+
+#. Key:	E73956E544B5A4E950EE56B3CADE85FB
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_ClosetEntryPoint.BP_ClosetEntryPoint_C:ExecuteUbergraph_BP_ClosetEntryPoint [Script Bytecode]
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_ClosetEntryPoint.BP_ClosetEntryPoint_C:ExecuteUbergraph_BP_ClosetEntryPoint [Script Bytecode]
+msgctxt ",E73956E544B5A4E950EE56B3CADE85FB"
+msgid "YOU TOUCHED THE CLOSET HANDLE\r\nYOU ARE BEING WARPED TO A MINIGAME"
+msgstr "YOU TOUCHED THE CLOSET HANDLE\r\nYOU ARE BEING WARPED TO A MINIGAME"
+
+#. Key:	E94050F04E13116D9741A28B219B253E
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+msgctxt ",E94050F04E13116D9741A28B219B253E"
+msgid "Rafael"
+msgstr "Rafael"
+
+#. Key:	EB3596484A5D5C98D5924F92CE9430C8
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_StareAtSphereNearTheCeiling.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_StareAtSphereNearTheCeiling.NewTextRenderComponent.Text
+msgctxt ",EB3596484A5D5C98D5924F92CE9430C8"
+msgid "STARE AT SPHERE NEAR THE CEILING"
+msgstr "STARE AT SPHERE NEAR THE CEILING"
+
+#. Key:	ED035BED431FE7A20AF06BB2931FB63B
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_ScoreText_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_ScoreText_GEN_VARIABLE.Text
+msgctxt ",ED035BED431FE7A20AF06BB2931FB63B"
+msgid "SCORE:"
+msgstr "SCORE:"
+
+#. Key:	EF166B924190A251BFB9F7AA10DDED3F
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Minigames/Mole/eMOLESTATE.eMOLESTATE.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",EF166B924190A251BFB9F7AA10DDED3F"
+msgid "Idle"
+msgstr "Idle"
+
+#. Key:	F07402C745265FC840F05AB696D88A47
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_Time_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/Mole/BP_MoleManager.BP_MoleManager_C:TRC_Time_GEN_VARIABLE.Text
+msgctxt ",F07402C745265FC840F05AB696D88A47"
+msgid "TIME: 120"
+msgstr "TIME: 120"
+
+#. Key:	F1BFA4E54C627C7D40A6DBA110F680CE
+#. SourceLocation:	/Game/Blueprints/Gameplay/ENUM_Hands.ENUM_Hands.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Gameplay/ENUM_Hands.ENUM_Hands.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",F1BFA4E54C627C7D40A6DBA110F680CE"
+msgid "Left"
+msgstr "Left"
+
+#. Key:	F2182703464B5031335EA191CAF8F395
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.BP_DoorToKitchen.TextRender.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.BP_DoorToKitchen.TextRender.Text
+msgctxt ",F2182703464B5031335EA191CAF8F395"
+msgid "TO KITCHEN"
+msgstr "TO KITCHEN"
+
+#. Key:	F630C1D54BEC913F691DD3B1957A2A83
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor14.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor14.NewTextRenderComponent.Text
+msgctxt ",F630C1D54BEC913F691DD3B1957A2A83"
+msgid "Assets modelled, unwrapped, rigged and animated"
+msgstr "Assets modelled, unwrapped, rigged and animated"
+
+#. Key:	F6FF7F7441577E89B17EF49234251E1F
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor21.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor21.NewTextRenderComponent.Text
+msgctxt ",F6FF7F7441577E89B17EF49234251E1F"
+msgid "Assets modelled, unwrapped and textured"
+msgstr "Assets modelled, unwrapped and textured"
+
+#. Key:	F75B35634F735D68CA897CA71E8918F9
+#. SourceLocation:	/Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+#: /Game/Maps/DeadScene/MAP_PlayerDeadScene.MAP_PlayerDeadScene:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+msgctxt ",F75B35634F735D68CA897CA71E8918F9"
+msgid "CHECK THE OBJECTIVE BOOK\r\nFOR DETAILS"
+msgstr "CHECK THE OBJECTIVE BOOK\r\nFOR DETAILS"
+
+#. Key:	F7697D454B2D7757684D25845F2D9AD3
+#. SourceLocation:	/Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+#: /Game/Blueprints/Minigames/Mole/BP_FloatingTextRenderer_Ryhtm.BP_FloatingTextRenderer_Ryhtm_C:ExecuteUbergraph_BP_FloatingTextRenderer_Ryhtm [Script Bytecode]
+msgctxt ",F7697D454B2D7757684D25845F2D9AD3"
+msgid "GOOD"
+msgstr "GOOD"
+
+#. Key:	F7F0F72548DF09002D7B83995FBCFCE9
+#. SourceLocation:	/Game/Blueprints/Gameplay/ENUM_Hands.ENUM_Hands.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Gameplay/ENUM_Hands.ENUM_Hands.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",F7F0F72548DF09002D7B83995FBCFCE9"
+msgid "Both"
+msgstr "Both"
+
+#. Key:	F9F148344D5FFDCD366DAEA4EA89BB23
+#. SourceLocation:	/Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor23.NewTextRenderComponent.Text
+#: /Game/Maps/Mesh_Showcase.Mesh_Showcase:PersistentLevel.TextRenderActor23.NewTextRenderComponent.Text
+msgctxt ",F9F148344D5FFDCD366DAEA4EA89BB23"
+msgid "Master Material\r\nDissolve"
+msgstr "Master Material\r\nDissolve"
+
+#. Key:	FA9A3748471A79F7273BE9AA76FBA0CA
+#. SourceLocation:	/Game/Maps/Climbing/MAP_Climbing.MAP_Climbing:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+#: /Game/Maps/Climbing/MAP_Climbing.MAP_Climbing:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+msgctxt ",FA9A3748471A79F7273BE9AA76FBA0CA"
+msgid "GRAB ONE HAND AT A TIME"
+msgstr "GRAB ONE HAND AT A TIME"
+
+#. Key:	FAE7A15B4DF1209EE49E03B7E15D3496
+#. SourceLocation:	/Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_MissesStatic_GEN_VARIABLE.Text
+#: /Game/Blueprints/Minigames/ClosetRythm/BP_Notemanager.BP_Notemanager_C:TR_MissesStatic_GEN_VARIABLE.Text
+msgctxt ",FAE7A15B4DF1209EE49E03B7E15D3496"
+msgid "MISSES:"
+msgstr "MISSES:"
+
+#. Key:	FBE399F4445B3B3ACAB3CD8154EEA3C8
+#. SourceLocation:	/Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea10.NewTextRenderComponent.Text
+#: /Game/Maps/Tutorial/MAP_Tutorial_Robin.MAP_Tutorial_Robin:PersistentLevel.TEXT_TeleportToHighlightedArea10.NewTextRenderComponent.Text
+msgctxt ",FBE399F4445B3B3ACAB3CD8154EEA3C8"
+msgid "USING THE OBJECTIVE BOOK"
+msgstr "USING THE OBJECTIVE BOOK"
+
